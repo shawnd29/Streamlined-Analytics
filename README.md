@@ -1,2 +1,2 @@
 # Streamlined-Analytics
- This repostory contains a code that tires to streamline varous data analytics features.
+ This repostory contains code that tries  to streamline varous data analytics features.
